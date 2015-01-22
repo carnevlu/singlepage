@@ -8,7 +8,7 @@ This mini web application offers:
 
 1.  Real Visual Edition of the content
 2.  Easy templating
-3.  ~~Auto-generation of the menu~~
+3.  Auto-generation of the menu
 4.  Integration of
     1.  Jquery
     2.  Bootstrap
