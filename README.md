@@ -1,5 +1,5 @@
-Simple Single Page by unicom
-============================
+Simple Single Page
+==================
 
 >This software offer a easy way to produce a basic singlepage website
 
