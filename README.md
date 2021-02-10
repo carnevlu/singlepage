@@ -1,3 +1,6 @@
+> This repository is no longer maintained and has no particular interest.
+
+
 Simple Single Page
 ==================
 
